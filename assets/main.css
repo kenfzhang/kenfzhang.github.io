@@ -370,7 +370,8 @@
  .page-content {
    padding: 30px 0;
    flex: 1;
-   background-image: url("bg.png");
+   background-image: url("bg-fade.png");
+   background-repeat:no-repeat;
  }
  
  .page-heading {
