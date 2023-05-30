@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 ---
 
-I'm a software engineer focused on full-stack web development. 
-
-I have experience building front-end web applications in React and Vue, as well as developing backends using Flask, AWS, MongoDB, and PostgreSQL.
-
-<h3>Fun</h3>
-
-My hobbies include <a href="/design"> drawing</a>, playing video games (especially fighting games!), and <a href="/misc#readinglist">reading</a>.
-
+  <p>I'm a software engineer based in San Diego, CA. My focus is full-stack web development.</p>
+  <p>I have experience building front-end web applications in React, ClojureScript and Vue, as well as developing backends using Rust, Flask, AWS, and PostgreSQL.</p>
+  <h3>Work Experience</h3>
+  - Software Engineer @ <b>Ladder Financial Inc</b> (2022 - 2023)
+  - Software Engineer Intern @ <b>Capital One</b> (Summer 2020, Summer 2021)
+  - Software Engineer @ <b>John Deere</b> (2017 - 2018)
+  <h3>Teaching Experience</h3>
+  - Computer Science Tutor @ <b>Indiana University Bloomington</b> (2020 - 2021)
+  <h3>Education</h3>
+  - B.Sc. Computer Engineering @ <b>University of Illinois at Urbana-Champaign</b>, 2017
+  <h3>Fun</h3>
+  <p>My hobbies include <a href="/design"> drawing</a>, <a href="/misc#readinglist">reading</a>, worldbuilding, playing video games (especially fighting games!), and weight training. Outside of engineering, I enjoy learning about a variety of topics including psychology, history, and languages.</p>
