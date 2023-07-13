@@ -6,6 +6,7 @@ permalink: /misc/
 
 <h2 id="readinglist">Reading list 📕</h2>
 <p>In 2019, I made an effort to get back into reading. Here are some books I've read since then!</p>
+<p style="font-size:10px">( No prizes for guessing my favorite genre ) </p>
 
 - <b>Mistborn: The Final Empire</b> - Brandon Sanderson
 - <b>Mistborn: The Well of Ascension</b> - Brandon Sanderson
@@ -24,3 +25,7 @@ permalink: /misc/
 - <b>Shadows of Self</b> - Brandon Sanderson
 - <b>The Colour of Magic</b> - Terry Pratchett
 - <b>The Light Fantastic</b> - Terry Pratchett
+
+<p>I am currently reading:</p>
+- <b>Hyperion</b> - Dan Simmons
+- <b>Neuromancer</b> - William Gibson
