@@ -25,6 +25,8 @@ permalink: /misc/
 - <b>Shadows of Self</b> - Brandon Sanderson
 - <b>The Colour of Magic</b> - Terry Pratchett
 - <b>The Light Fantastic</b> - Terry Pratchett
+- <b>Halo: Contact Harvest</b> - Joseph Staten
+
 
 <p>I am currently reading:</p>
 - <b>Hyperion</b> - Dan Simmons
