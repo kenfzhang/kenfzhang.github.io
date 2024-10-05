@@ -29,5 +29,4 @@ permalink: /misc/
 
 
 <p>I am currently reading:</p>
-- <b>Hyperion</b> - Dan Simmons
-- <b>Neuromancer</b> - William Gibson
+- <b>Equal Rites</b> - Terry Pratchett
