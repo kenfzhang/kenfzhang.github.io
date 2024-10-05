@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-  <p>I'm a software engineer based in San Diego, CA. My focus is full-stack web development.</p>
-  <p>I have experience building front-end web applications in React, ClojureScript and Vue.</p>
+  <p>I'm a software engineer based in San Diego, CA.</p>
   <h3>Work Experience</h3>
   - Software Engineer @ <b>Ladder Financial Inc</b> (2022 - 2023)
   - Software Engineer Intern @ <b>Capital One</b> (Summer 2020, Summer 2021)
