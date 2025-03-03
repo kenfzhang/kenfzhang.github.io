@@ -26,7 +26,8 @@ permalink: /misc/
 - <b>The Colour of Magic</b> - Terry Pratchett
 - <b>The Light Fantastic</b> - Terry Pratchett
 - <b>Halo: Contact Harvest</b> - Joseph Staten
-
+- <b>Equal Rites</b> - Terry Pratchett
 
 <p>I am currently reading:</p>
-- <b>Equal Rites</b> - Terry Pratchett
+- <b>Wind and Truth</b> - Brandon Sanderson
+- <b>Hyperion</b> - Dan Simmons
