@@ -30,7 +30,6 @@ permalink: /misc/
 - <b>The Light Fantastic</b> - Terry Pratchett
 - <b>Equal Rites</b> - Terry Pratchett
 - <b>Halo: Contact Harvest</b> - Joseph Staten
-<<<<<<< HEAD
 
 <h3>Non-Fiction</h3>
 
